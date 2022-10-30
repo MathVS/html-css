@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+
+body {
+    background-image: linear-gradient(to bottom, #000, rgba(179, 179, 179, 0.411));
+}
+
+
+picture img {
+    margin: auto;
+}
